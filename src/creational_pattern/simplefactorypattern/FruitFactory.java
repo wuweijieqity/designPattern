@@ -6,7 +6,6 @@ package creational_pattern.simplefactorypattern;
  */
 public class FruitFactory {
     /**
-     *
      *工厂模式的核心，静态工厂方法类
      */
     public static Fruit getFruitProduct(Object args){
