@@ -1,6 +1,6 @@
 package creational_pattern.factorypattern;
 
-public class JellyMilkTea implements MikeTea {
+public class JellyMilkTea implements MilkTea {
     public void Create() {
         System.out.println("椰果奶茶好了");
     }

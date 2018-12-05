@@ -1,6 +1,6 @@
 package creational_pattern.factorypattern;
 
-public interface MikeTea {
+public interface MilkTea {
     public String BUBBLE_TYPE_BOOM = "爆爆珠";
     public String JELLY_TYPE_NORMAL = "椰果";
     //奶盖

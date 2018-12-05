@@ -1,6 +1,6 @@
 package creational_pattern.factorypattern;
 
-public class CoCo implements MikeTeaFactory {
+public class CoCo implements MilkTeaFactory {
     public BubbleMilkTea produceMilkTea() {
         return new BubbleMilkTea();
     }
